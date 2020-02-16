@@ -1,5 +1,5 @@
-# Gregorian Wall Calendar Made in DrawBot
-A Badíʻ calendar made in [DrawBot](http://www.drawbot.com/).
+# Badíʻ Calendar Wall Calendar Made in DrawBot
+A [Badíʻ](https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_calendar) calendar made in [DrawBot](http://www.drawbot.com/).
 <img src ="https://github.com/eliheuer/badih-wall-calendar/blob/master/images/176-mulk.png?raw=true" />
 ## Building from Source on macOS
 The source files in [source](source) can be rendered in the [DrawBot](http://www.drawbot.com/) GUI desktop application, but you might need to mess with the font locations and paths a bit to get the fonts to work.
